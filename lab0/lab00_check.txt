@@ -1,0 +1,48 @@
+P1:
+student@student-CZR-BUSINESS-1150:~/MikolajP/lab0/oods-system$ ls -R
+.:
+backup  data_summary.txt  metadata_catalog  providers
+
+./backup:
+satA_backup.csv
+
+./metadata_catalog:
+
+./providers:
+ground_station  satellite_A  satellite_B
+
+./providers/ground_station:
+observations.csv
+
+./providers/satellite_A:
+observations.csv
+
+./providers/satellite_B:
+observations.csv
+
+P2:
+command:  grep OBJ-003 providers/*/observations.csv
+result: providers/satellite_A/observations.csv:2026-03-01T12:10:00,OBJ-003,15.1,7.5
+
+P3:
+
+command: wc -l providers/*/observations.csv
+result:
+  0 providers/ground_station/observations.csv
+  3 providers/satellite_A/observations.csv
+  0 providers/satellite_B/observations.csv
+  3 total
+
+P4:
+command: nano providers/satellite_B/observations.csv 
+command: cat providers/satellite_B/observations.csv 
+result: 2026-03-01T13:00:00,OBJ-001,1.5,8.3
+
+P5:
+command: ls -l
+result: total 16
+drwxrwxr-x 2 student student 4096 mar 17 13:54 backup
+-rw-rw-r-- 1 student student  404 mar 17 13:59 data_summary.txt
+drwxrwxr-x 2 student student 4096 mar 17 13:46 metadata_catalog
+drwxrwxr-x 5 student student 4096 mar 17 13:47 providers
+

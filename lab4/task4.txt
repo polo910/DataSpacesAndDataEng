@@ -1,0 +1,16 @@
+
+satA:
+│ timestamp   │ TIMESTAMP   │ YES     │         │         │         │
+│ object_id   │ VARCHAR     │ YES     │         │         │         │
+│ temperature │ DOUBLE      │ YES     │         │         │         │
+│ velocity    │ DOUBLE      │ YES  
+
+satB:
+│ timestamp   │ TIMESTAMP   │ YES     │         │         │         │
+│ object_id   │ VARCHAR     │ YES     │         │         │         │
+│ temperature │ DOUBLE      │ YES     │         │         │         │
+│ velocity    │ DOUBLE      │ YES 
+
+results match
+
+

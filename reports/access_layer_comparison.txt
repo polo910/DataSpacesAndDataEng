@@ -1,0 +1,16 @@
+PORÓWNANIE WARSTW DOSTĘPU - RAPORT
+
+1. Najłatwiejszy do wdrożenia:
+REST API. To standardowy protokół, wymaga tylko prostych endpointów JSON.
+
+2. Najlepszy do analityki SQL:
+DuckDB przez HTTP. Pozwala na agregacje i złączenia (JOIN) bezpośrednio na plikach zdalnych bez ich pobierania.
+
+3. Najlepszy do dostępu obiektowego (np. szukanie po ID):
+GraphQL. Pozwala pobrać dokładnie te pola, których potrzebujemy, z wielu źródeł jednym zapytaniem.
+
+4. Największa złożoność architektury:
+GraphQL. Wymaga utrzymania bramy (Gateway), definicji schematów i resolverów.
+
+5. Najbliższy idei Data Space / Data Mesh:
+GraphQL. Ponieważ tworzy ujednoliconą warstwę semantyczną (kontrakt), która ukrywa przed użytkownikiem techniczną strukturę dostawców.

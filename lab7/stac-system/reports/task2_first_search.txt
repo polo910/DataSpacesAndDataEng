@@ -1,0 +1,99 @@
+Item 1
+JSON{
+  "id": "S2A_MSIL2A_20260505T085431_N0512_R107_T37VEC_20260505T114115",
+  "bbox": [
+    38.999674476610316,
+    55.85658114562183,
+    39.48840316060722,
+    56.56824281799882
+  ],
+  "datetime": "2026-05-05T08:54:31.024000Z",
+  "assets": [
+    "AOT_10m",
+    "AOT_20m",
+    "AOT_60m",
+    "B01_20m",
+    "B01_60m"
+  ]
+}
+Interpretation: This item is a Sentinel-2A optical observation (Level-2A). It was captured on May 5th, 2026, and covers MGRS tile T37VEC. It contains atmospheric correction data (AOT) and specific spectral bands. 
+
+Item 2
+JSON{
+  "id": "S2A_MSIL2A_20260505T085431_N0512_R107_T37VDD_20260505T114115",
+  "bbox": [
+    37.357551918911774,
+    56.74522108595615,
+    38.12695054328716,
+    56.89479276381068
+  ],
+  "datetime": "2026-05-05T08:54:31.024000Z",
+  "assets": [
+    "AOT_10m",
+    "AOT_20m",
+    "AOT_60m",
+    "B01_20m",
+    "B01_60m"
+  ]
+}
+Interpretation: An optical observation from the same satellite pass (Sentinel-2A, same timestamp), but capturing a different geographic location defined by tile T37VDD. 
+
+Item 3
+JSON{
+  "id": "S2A_MSIL2A_20260505T085431_N0512_R107_T37UEB_20260505T114115",
+  "bbox": [
+    38.99967977033577,
+    55.69095837295782,
+    39.15932731623262,
+    55.94573440279175
+  ],
+  "datetime": "2026-05-05T08:54:31.024000Z",
+  "assets": [
+    "AOT_10m",
+    "AOT_20m",
+    "AOT_60m",
+    "B01_20m",
+    "B01_60m"
+  ]
+}
+Interpretation: This Sentinel-2A product from orbit R107 provides Level-2A data. The metadata confirms it is a multispectral image suitable for scientific analysis using the B01 bands.  
+
+Item 4
+JSON{
+  "id": "S2A_MSIL2A_20260505T085431_N0512_R107_T37UDV_20260505T114115",
+  "bbox": [
+    37.46868670472254,
+    53.151777988193025,
+    38.066884039622224,
+    54.1417986227082
+  ],
+  "datetime": "2026-05-05T08:54:31.024000Z",
+  "assets": [
+    "AOT_10m",
+    "AOT_20m",
+    "AOT_60m",
+    "B01_20m",
+    "B01_60m"
+  ]
+}
+Interpretation: High-quality optical imagery from May 2026. The product ID encodes operational metadata including the processing version N0512 and tile identifier T37UDV.  
+
+Item 5
+JSON{
+  "id": "S2A_MSIL2A_20260505T085431_N0512_R107_T37UDU_20260505T114115",
+  "bbox": [
+    37.50094041209755,
+    53.14916732193804,
+    37.55493589473801,
+    53.24050719463439
+  ],
+  "datetime": "2026-05-05T08:54:31.024000Z",
+  "assets": [
+    "AOT_10m",
+    "AOT_20m",
+    "AOT_60m",
+    "B01_20m",
+    "B01_60m"
+  ]
+}
+Interpretation: This item represents an acquisition over tile T37UDU. It includes multiple assets, including atmospheric correction maps which are critical for precise Earth monitoring workflows.  

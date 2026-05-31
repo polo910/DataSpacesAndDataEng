@@ -1,0 +1,22 @@
+STATYSTYKI SPEKTRALNE PASM
+==========================
+
+Pasmo: B04_10m (assets/bands/B04_10m.tif)
+ MIN: 107.911446
+ MAX: 2256.4607
+ MEAN: 1200.9818
+ STD: 249.97601
+
+Pasmo: B08_10m (assets/bands/B08_10m.tif)
+ MIN: 224.67941
+ MAX: 4564.9375
+ MEAN: 2500.8445
+ STD: 498.28415
+
+INTERPRETACJA INZYNIERSKA:
+1. Ktore pasmo zawiera wieksze wartosci srednie?
+   Odp: Pasmo B08 (Near Infrared / Bliska podczerwien) ma znacznie wyzsza srednia niz B04 (Red).
+2. Dlaczego roslinnosc moze zachowywac sie inaczej w obu pasmach?
+   Odp: Zdrowa roslinnosc silnie pochlania swiatlo czerwone (B04) do fotosyntezy, a odbija podczerwien (B08).
+3. Dlaczego te roznice sa wazne dla obliczania wskaznika NDVI?
+   Odp: Poniewaz kontrast miedzy silnym odbiciem w podczerwieni a pochlanianiem w czerwieni pozwala jednoznacznie wykryc roslinnosc zywa.

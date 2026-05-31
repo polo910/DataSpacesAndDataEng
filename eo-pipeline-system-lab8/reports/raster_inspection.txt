@@ -1,0 +1,17 @@
+RAPORT INSPEKCJI RASTROW
+=========================
+
+Sciezka pliku: assets/bands/B04_10m.tif
+ Szerokosc: 300
+ Wysokosc: 300
+ Liczba pasm: 1
+ CRS: EPSG:4326
+ Granice: BoundingBox(left=19.0, bottom=-2949.0, right=3019.0, top=51.0)
+
+Sciezka pliku: assets/bands/B08_10m.tif
+ Szerokosc: 300
+ Wysokosc: 300
+ Liczba pasm: 1
+ CRS: EPSG:4326
+ Granice: BoundingBox(left=19.0, bottom=-2949.0, right=3019.0, top=51.0)
+

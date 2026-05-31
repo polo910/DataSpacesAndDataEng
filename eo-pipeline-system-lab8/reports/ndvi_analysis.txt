@@ -1,0 +1,17 @@
+RAPORT ANALIZY WSKAZNIKA NDVI
+==============================
+
+Plik zrodlowy tablicy: results/ndvi/ndvi.npy
+Wygenerowana mapa: results/ndvi/ndvi_map.png
+
+Statystyki zbioru pikseli:
+ - Minimalne NDVI: -0.7124449078937256
+ - Maksymalne NDVI: 0.8947239541883288
+ - Srednie NDVI: 0.3450834194311054
+ - Liczba pikseli gstej roslinnosci (NDVI > 0.5): 10015 (11.13%)
+ - Liczba pikseli niskiego NDVI (NDVI < 0): 931 (1.03%)
+
+INTERPRETACJA INZYNIERSKA:
+ Obszary o wysokim wskazniku NDVI (>0.5) reprezentuja zdrowa, gêst¹ roœlinnoœæ (lasy, pola uprawne).
+ Obszary o ujemnym NDVI reprezentuja akweny wodne lub glebokie cienie terenowe.
+ Brak bezposredniego wplywu zachmurzenia (cloud contamination), poniewaz dane wejsciowe byly syntetyczne.

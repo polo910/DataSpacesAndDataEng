@@ -1,0 +1,37 @@
+====================================================
+   ZBIORCZY OPERACYJNY RAPORT PRZETWARZANIA SYSTEMU EO
+====================================================
+
+1. STATUS GENEROWANYCH ZASOBOW ARTEFAKTOW:
+ - [BRAK]    Miniatura (thumbnail) (Uruchom odpowiedni skrypt pipeline!)
+ - [DOSTEPNY] Pasmo Czerwone (B04) -> Sciezka: assets/bands/B04_10m.tif
+ - [DOSTEPNY] Pasmo Podczerwieni (B08) -> Sciezka: assets/bands/B08_10m.tif
+ - [DOSTEPNY] Macierz NumPy NDVI (.npy) -> Sciezka: results/ndvi/ndvi.npy
+ - [DOSTEPNY] Wizualizacja Mapy NDVI (.png) -> Sciezka: results/ndvi/ndvi_map.png
+
+2. METADANE GEOPRZESTRZENNE PASM WEJSCIOWYCH:
+ - Rozdzielczosc/Wymiary: 300 x 300 px
+ - System odniesienia CRS: EPSG:4326
+ - Wspolrzedne graniczne: BoundingBox(left=19.0, bottom=-2949.0, right=3019.0, top=51.0)
+
+3. STATYSTYKI ANALITYCZNE PRODUKTU NDVI:
+ - Minimum NDVI: -0.7124
+ - Maksimum NDVI: 0.8947
+ - Srednia arytmetyczna: 0.3451
+ - Udzial wysokiej roslinnosci: 11.13%
+
+ Ocena Œrodowiskowa: Obszar o przewadze terenu zurbanizowanego, nieuzytkow lub cieków wodnych.
+
+4. SKROCONE WYNIKI RANKINGU METADANYCH STAC:
+   SILNIK RANKINGU OBSERWACJI - RAPORT BIEZACY
+   ============================================
+   
+   1. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T34UCB_20240129T130753
+      Czas akwizycji: 2024-01-29T09:42:41.024000Z
+      Zachmurzenie: 0.0% -> Punkty: 100.00
+      Liczba zasobow: 47 -> Punkty: 30.00
+      Punkty aktualnosci: 20.00
+      WYNIK KONCOWY (FINAL SCORE): 150.00
+   ------------------------------------------------------------
+   2. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T33UYS_20240129T130753
+      Czas akwizycji: 2024-01-29T09:42:41.024000Z

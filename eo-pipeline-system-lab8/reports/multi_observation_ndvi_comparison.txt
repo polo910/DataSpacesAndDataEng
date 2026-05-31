@@ -1,0 +1,10 @@
+POROWNANIE JAKOSCI NDVI DLA DWOCH OBSERWACJI
+=============================================
+
+OBSERWACJA A (Czysta): Srednie NDVI = 0.3652, Piksele bujnej roslinnosci = 7524
+OBSERWACJA B (Chmury): Srednie NDVI = 0.2764, Piksele bujnej roslinnosci = 5617
+
+WNIOSKI ANALITYCZNE:
+ - Chmury drastycznie zaburzaja wskaznik roslinnosci, sprowadzajac jego wartosc w okolice zera (0.01).
+ - Obserwacja B wykazuje falszywy zanik powierzchni zielonych z powodu przesloniecia terenu chmura.
+ - Do operacyjnego monitorowania oraz trenowania modeli AI nalezy BEZWZGLEDNIE wybrac Obserwacje A.

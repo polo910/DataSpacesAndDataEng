@@ -1,0 +1,13 @@
+TEMATYCZNY RAPORT DETEKCJI WODY POWIERZCHNIOWEJ
+===============================================
+
+Regula klasyfikacji binarnej: NDVI < 0
+Statystyki pikseli:
+ - Piksele sklasyfikowane jako woda: 931
+ - Piksele sklasyfikowane jako lad: 89069
+ - Procentowa zawartosc wody na zdjêciu: 1.03%
+
+INTERPRETACJA INZYNIERSKA:
+ Prog progowania NDVI < 0 jest prosta i skuteczna metoda wstepnej segmentacji zbiornikow wodnych.
+ Nalezy jednak pamietac, ze gleboki cien gorski lub dachy niektorych budynkow moga rowniez dawac wynik ujemny.
+ Produkt ten stanowi idealne wejscie (maske warunkowa) dla algorytmow klasyfikacji maszynowej AI.

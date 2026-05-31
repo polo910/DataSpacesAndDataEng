@@ -1,0 +1,81 @@
+SILNIK RANKINGU OBSERWACJI - RAPORT BIEZACY
+============================================
+
+1. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T34UCB_20240129T130753
+   Czas akwizycji: 2024-01-29T09:42:41.024000Z
+   Zachmurzenie: 0.0% -> Punkty: 100.00
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 20.00
+   WYNIK KONCOWY (FINAL SCORE): 150.00
+------------------------------------------------------------
+2. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T33UYS_20240129T130753
+   Czas akwizycji: 2024-01-29T09:42:41.024000Z
+   Zachmurzenie: 0.01% -> Punkty: 99.99
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 20.00
+   WYNIK KONCOWY (FINAL SCORE): 149.99
+------------------------------------------------------------
+3. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T33UYR_20240129T130753
+   Czas akwizycji: 2024-01-29T09:42:41.024000Z
+   Zachmurzenie: 0.06% -> Punkty: 99.94
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 20.00
+   WYNIK KONCOWY (FINAL SCORE): 149.94
+------------------------------------------------------------
+4. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T34UDA_20240129T130753
+   Czas akwizycji: 2024-01-29T09:42:41.024000Z
+   Zachmurzenie: 0.34% -> Punkty: 99.66
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 20.00
+   WYNIK KONCOWY (FINAL SCORE): 149.66
+------------------------------------------------------------
+5. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T34UCA_20240129T130753
+   Czas akwizycji: 2024-01-29T09:42:41.024000Z
+   Zachmurzenie: 0.85% -> Punkty: 99.15
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 20.00
+   WYNIK KONCOWY (FINAL SCORE): 149.15
+------------------------------------------------------------
+6. ID Produktu: S2A_MSIL2A_20240129T094241_N0510_R036_T34UDB_20240129T130753
+   Czas akwizycji: 2024-01-29T09:42:41.024000Z
+   Zachmurzenie: 3.88% -> Punkty: 96.12
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 20.00
+   WYNIK KONCOWY (FINAL SCORE): 146.12
+------------------------------------------------------------
+7. ID Produktu: S2B_MSIL2A_20240127T095159_N0510_R079_T34UCB_20240127T112538
+   Czas akwizycji: 2024-01-27T09:51:59.024000Z
+   Zachmurzenie: 99.4% -> Punkty: 0.60
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 18.67
+   WYNIK KONCOWY (FINAL SCORE): 49.27
+------------------------------------------------------------
+8. ID Produktu: S2B_MSIL2A_20240127T095159_N0510_R079_T34UDA_20240127T112538
+   Czas akwizycji: 2024-01-27T09:51:59.024000Z
+   Zachmurzenie: 99.64% -> Punkty: 0.36
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 18.67
+   WYNIK KONCOWY (FINAL SCORE): 49.03
+------------------------------------------------------------
+9. ID Produktu: S2B_MSIL2A_20240127T095159_N0510_R079_T34UDB_20240127T112538
+   Czas akwizycji: 2024-01-27T09:51:59.024000Z
+   Zachmurzenie: 99.83% -> Punkty: 0.17
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 18.67
+   WYNIK KONCOWY (FINAL SCORE): 48.84
+------------------------------------------------------------
+10. ID Produktu: S2B_MSIL2A_20240127T095159_N0510_R079_T34UCA_20240127T112538
+   Czas akwizycji: 2024-01-27T09:51:59.024000Z
+   Zachmurzenie: 99.95% -> Punkty: 0.05
+   Liczba zasobow: 47 -> Punkty: 30.00
+   Punkty aktualnosci: 18.67
+   WYNIK KONCOWY (FINAL SCORE): 48.72
+------------------------------------------------------------
+
+ODPOWIEDZI NA PYTANIA INTERPRETACYJNE:
+1. Ktory produkt powinien byc przetwarzany jako pierwszy?
+   Odp: Produkt o najwyzszym wyniku, czyli: S2A_MSIL2A_20240129T094241_N0510_R036_T34UCB_20240129T130753
+2. Co mialo najwiekszy wplyw na decyzje?
+   Odp: Glownym czynnikiem determinujacym wynik bylo niskie zachmurzenie (cloud_cover), dajace blisko 100 punktow basowych.
+3. Czy ta strategia jest wystarczajaca dla systemow operacyjnych?
+   Odp: Jest to model bazowy. W pelnych systemach uwzglednia sie tez koszty dostepu, rozdzielczosc oraz pokrycie obszaru zainteresowania (AOI).

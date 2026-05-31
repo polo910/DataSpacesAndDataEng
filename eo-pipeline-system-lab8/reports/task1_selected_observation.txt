@@ -1,0 +1,5 @@
+Wybrany produkt Sentinel-2:
+Product ID: S2A_MSIL2A_20240129T094241_N0510_R036_T34UDB
+Acquisition Time: 2024-01-29T09:42:41Z
+Cloud Coverage: 3.88%
+Dostepne zasoby: B04_10m, B08_10m, TCI_10m, thumbnail
